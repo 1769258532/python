@@ -1,0 +1,17 @@
+[
+
+{
+    "name": "ACME",
+    "shares": 100,
+    "price": 542.23,
+    "gender": true,
+    "gender2": false,
+    "hobby":["篮球" , "足球"],
+     "address":{
+            "城市":"武汉",
+            "省份": "湖北"
+      }
+
+}
+]
+
